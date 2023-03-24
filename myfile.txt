@@ -1,2 +1,2 @@
-my name is dev1
-from blr
+my name is dev2
+from pune
